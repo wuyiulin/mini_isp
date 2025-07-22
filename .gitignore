@@ -1,0 +1,7 @@
+# Build artifacts
+build/
+*.o
+*.exe
+*.dll
+*.so
+*.dylib
