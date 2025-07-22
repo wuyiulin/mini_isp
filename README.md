@@ -65,8 +65,8 @@ This project uses CMake for its build system. Follow these steps to compile:
 
 **1. Clone the repository:**
 ```
-git clone https://github.com/wuyiulin/Mini_ISP.git
-cd Mini_ISP
+git clone https://github.com/wuyiulin/mini_isp.git
+cd mini_isp
 ```
 
 **2. Create and enter the build directory:**
