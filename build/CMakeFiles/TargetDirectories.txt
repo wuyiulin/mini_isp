@@ -1,3 +1,0 @@
-/Data/Github_Repo/mini_isp/build/CMakeFiles/mini_isp.dir
-/Data/Github_Repo/mini_isp/build/CMakeFiles/edit_cache.dir
-/Data/Github_Repo/mini_isp/build/CMakeFiles/rebuild_cache.dir
